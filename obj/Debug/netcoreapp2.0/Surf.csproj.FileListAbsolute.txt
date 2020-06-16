@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Code\Surf\obj\Debug\netcoreapp2.0\Surf.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Code\Surf\obj\Debug\netcoreapp2.0\Surf.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Code\Surf\obj\Debug\netcoreapp2.0\Surf.AssemblyInfo.cs
+C:\Users\Admin\Documents\Code\Surf\bin\Debug\netcoreapp2.0\Surf.deps.json
+C:\Users\Admin\Documents\Code\Surf\bin\Debug\netcoreapp2.0\Surf.runtimeconfig.json
+C:\Users\Admin\Documents\Code\Surf\bin\Debug\netcoreapp2.0\Surf.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Code\Surf\bin\Debug\netcoreapp2.0\Surf.dll
+C:\Users\Admin\Documents\Code\Surf\bin\Debug\netcoreapp2.0\Surf.pdb
+C:\Users\Admin\Documents\Code\Surf\obj\Debug\netcoreapp2.0\Surf.dll
+C:\Users\Admin\Documents\Code\Surf\obj\Debug\netcoreapp2.0\Surf.pdb
